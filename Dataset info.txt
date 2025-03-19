@@ -1,0 +1,21 @@
+The dataset will have features like:
+
+1) Car_ID (Unique identifier)
+
+2) Car_Name (Model name)
+
+3) Brand (Car brand)
+
+4) Year (Manufacturing year)
+
+5) Category (Vintage, Modern, Luxury)
+
+6) Price (Estimated price in USD)
+
+7) Mileage (Miles per gallon or electric equivalent)
+
+8) Engine_Size (Engine capacity in liters or equivalent)
+
+9) Fuel_Type (Petrol, Diesel, Electric, Hybrid)
+
+10) Transmission (Manual, Automatic, CVT, etc.)
