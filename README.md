@@ -1,7 +1,7 @@
 # Predicting-car-price-across-eras
 
 ## Model downloading link 
-[ ]
+[https://drive.google.com/file/d/1T9AeHy6OoyFTx4sIIHuakC-QA31x_J0O/view?usp=sharing ]
 
 ### 🚗 Car Price Prediction
 
